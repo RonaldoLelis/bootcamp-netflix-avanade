@@ -1,5 +1,5 @@
 
-// ---> ESSE CÓDIGO ORIGIANL NÃO ESTÁ FUNCIONANDO <---
+// ---> ESSE CÓDIGO ORIGINAL NÃO ESTÁ FUNCIONANDO <---
 // $('.owl-carousel').owlCarousel({
 //     loop:true,
 //     margin:10,
