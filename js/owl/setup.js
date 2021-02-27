@@ -1,22 +1,3 @@
-
-// ---> ESSE CÓDIGO ORIGINAL NÃO ESTÁ FUNCIONANDO <---
-// $('.owl-carousel').owlCarousel({
-//     loop:true,
-//     margin:10,
-//     nav:true,
-//     responsive:{
-//         0:{
-//             items:1
-//         },
-//         600:{
-//             items:3
-//         },
-//         1000:{
-//             items:5
-//         }
-//     }
-// })
-
 // Demo's JS here
 window.addEventListener("load", function () {
     var owlOptions = {
